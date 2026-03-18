@@ -8,10 +8,13 @@ I specialize in building robust data pipelines, implementing data quality checks
 
 ## 🔭 What I'm Currently Working On
 
-- **M.Sc. in Computer Science** at Mansoura University, focusing on Distributed Systems & Machine Learning
-- Building end-to-end ETL pipelines with **Apache Airflow** and **Docker**
-- Developing **Sales Data Warehouse** project with Type 2 Slowly Changing Dimensions
-- Training students in algorithmic thinking as a **Technical Trainer** at ICPC Mansoura Community
+- **📚 Research** — M.Sc. in Distributed Systems & Machine Learning @ Mansoura University
+
+- **📊 Data Engineering** — Building ETL pipelines (Airflow, Docker, PostgreSQL, PySpark)
+
+- **🤖 AI Projects** — Developing LLM-powered diagnostic tools (Ollama, GitHub Actions)
+
+- **📚 Leveling Up** — Deepening my competitive programming skills in algorithms and data structures
 
 ## 🛠️ Tools I Use
 
